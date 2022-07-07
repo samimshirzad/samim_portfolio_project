@@ -1,0 +1,577 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"nuberofElements"
+			],
+			[
+				"arr",
+				"arr"
+			],
+			[
+				"nu",
+				"numofElements"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"s",
+				"states"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"pop",
+				"population"
+			],
+			[
+				"tm",
+				"tmp_name"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"mo",
+				"move_uploaded_file"
+			],
+			[
+				"im",
+				"imageFileType"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"exi",
+				"exists"
+			],
+			[
+				"up",
+				"uploadOK"
+			],
+			[
+				"tar",
+				"target_file"
+			],
+			[
+				"target",
+				"target_dir"
+			],
+			[
+				"file",
+				"filetoupload"
+			],
+			[
+				"ec",
+				"enctype\tAttr"
+			],
+			[
+				"fg",
+				"fgets"
+			],
+			[
+				"m",
+				"myfile"
+			],
+			[
+				"date_d",
+				"date_default_timezone_set"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"dele",
+				"DELETE"
+			],
+			[
+				"border-cl",
+				"border-collapse\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"e",
+				"emp_id"
+			],
+			[
+				"em",
+				"emp_id"
+			],
+			[
+				"S",
+				"Salary_amount"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"emp",
+				"emp_id"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"session_",
+				"session_destroy"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"h",
+				"Hire_date"
+			],
+			[
+				"sa",
+				"Salary_unit"
+			],
+			[
+				"dep",
+				"Department_id"
+			],
+			[
+				"do",
+				"Dob"
+			],
+			[
+				"l",
+				"lastname"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"d",
+				"Date"
+			],
+			[
+				"add",
+				"Address"
+			],
+			[
+				"g",
+				"Gender"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"ad",
+				"admin_level"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"u",
+				"Username"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"ins",
+				"insert"
+			],
+			[
+				"con",
+				"connected"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"bac",
+				"backface-visibility\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"sc",
+				"scho"
+			],
+			[
+				"to",
+				"tocelsius"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"bore",
+				"border-style\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"img",
+				"img-banner"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"te",
+				"text-shadow\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/khan/Desktop/Network  devices"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/AFGCisco/updateform.php",
+		"/C/Users/khan/Desktop/Network  devices/switch_router.html",
+		"/C/Users/khan/Desktop/Network  devices/index.html",
+		"/C/Users/khan/Desktop/Network  devices/home.html",
+		"/C/Users/khan/Desktop/Network  devices/style.css",
+		"/C/xampp/htdocs/AFGCisco/index.php",
+		"/C/xampp/htdocs/AFGCisco/contact.php",
+		"/C/xampp/htdocs/AFGCisco/updatedata.php",
+		"/C/xampp/htdocs/AFGCisco/updateemp.php",
+		"/C/xampp/htdocs/AFGCisco/logout.php",
+		"/C/xampp/htdocs/AFGCisco/titlehead.php",
+		"/C/xampp/htdocs/AFGCisco/deleteform.php",
+		"/C/xampp/htdocs/AFGCisco/deleteemp.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/UpdatenewsController.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/shownews.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/register.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/regController.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/README.md",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/newsController.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/news.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/index.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/gradecontroller.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/form.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/edit.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/deleteNews.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/dbform.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/db_controller.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/db_connect.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/controller.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/concepts.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/checkgrade.php",
+		"/C/Users/khan/Downloads/Compressed/CS533-Web-IT-main/asset.php",
+		"/C/xampp/htdocs/AFGCisco/upload.php",
+		"/C/xampp/htdocs/AFGCisco/fupload.php",
+		"/C/xampp/htdocs/AFGCisco/exp.php",
+		"/C/xampp/htdocs/AFGCisco/showtable.php",
+		"/C/xampp/htdocs/AFGCisco/addemp.php",
+		"/C/xampp/htdocs/AFGCisco/admin_level.php",
+		"/C/Users/khan/Desktop/Network  devices/aboutowner.html",
+		"/C/xampp/htdocs/AFGCisco/css/style.css",
+		"/C/xampp/htdocs/AFGCisco/login.php",
+		"/C/Users/khan/Desktop/Network  devices/hcss.html",
+		"/C/xampp/htdocs/AFGCisco/contact.html",
+		"/C/xampp/htdocs/AFGCisco/dbcon.php",
+		"/C/Users/khan/Desktop/Network  devices/contact.html",
+		"/C/xampp/htdocs/Cisco website for AFG/index.php",
+		"/C/Users/khan/Desktop/indix.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  \t\n",
+			"style.css",
+			"txt3",
+			"index",
+			"\t\n",
+			"img-samim"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aboutowner.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 399.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
